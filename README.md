@@ -27,7 +27,6 @@ brew install swi-prolog
 ```bash
 # Clonez le projet
 git clone https://github.com/otmsara/MusicExpertAdvisorProlog.git
-
 # Ou téléchargez les 4 fichiers manuellement :
 # - base_connaissances.pl
 # - moteur_inference.pl  
